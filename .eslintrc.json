@@ -1,0 +1,23 @@
+{
+  "extends": ["airbnb"],
+  "env": {
+    "browser": true,
+    "jest": true
+  },
+  "rules": {
+    "react/destructuring-assignment": 0,
+    "import/prefer-default-export": 0,
+    "import/no-named-as-default": 0,
+    "max-len": [2, {"code": 175, "ignoreUrls": true}]
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": [
+          "src/"
+        ]
+      }
+    }
+  },
+  "parser": "babel-eslint"
+}

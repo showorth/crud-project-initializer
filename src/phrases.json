@@ -1,0 +1,44 @@
+{
+  "en-CA": {
+    "Generic": {
+      "all": "All",
+      "yes": "Yes",
+      "no": "No",
+      "back": "Back",
+      "search": "Search",
+      "select": "Select",
+      "saveComplete": "Save Complete",
+      "edit": "Edit",
+      "save": "Save",
+      "upload": "Upload",
+      "cancel": "Cancel",
+      "ok": "Ok",
+      "submit": "Submit",
+      "refresh": "Refresh",
+      "info": "Info",
+      "success": "Success",
+      "warning": "Warning",
+      "attention": "Attention",
+      "home": "Home",
+      "phone": "Phone",
+      "mobile": "Mobile",
+      "email": "Email",
+      "notes": "Notes",
+      "operationSuccess": "Success",
+      "operationError": "Error",
+      "top": "Top",
+      "add": "Add",
+      "delete": "Delete",
+      "update": "Update",
+      "fetchFailedConstants": "Fetching configuration failed",
+      "fetchFailedApplications": "Fetching list failed",
+      "fetchFailedRegions": "Fetching regions failed",
+      "fetchFailedAuth": "Fetching auth failed"
+    },
+
+    "CrudComponent": {
+      "heading": "This is a heading"
+    }
+
+  }
+}
